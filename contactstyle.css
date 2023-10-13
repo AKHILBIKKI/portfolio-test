@@ -1,0 +1,64 @@
+.contactform form {
+    padding: 50px 50px;
+    margin-top: 100px;
+}
+
+.contactform form div {
+    padding: 8px 0;
+    font-size: 17px;
+   /* margin-top: 3px;*/
+}
+
+.contactform form h1 {
+    padding: 10px 0;
+}
+
+#inputname.form-control {
+    width: 15vw;
+    border-radius: 4px;
+}
+
+#emailaddress.form-control {
+    width: 15vw;
+    border-radius: 4px;
+}
+
+#inputpassword.form-control {
+    width: 15vw;
+    border-radius: 4px;
+}
+
+
+#emailHelp {
+    font-size: 10px;
+}
+
+.mb-3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.mb-3.form-check {
+    font-size: 15px;
+    display: inherit;
+}
+
+/*button.btn{
+    padding: 8px 5px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+button.btn:hover{
+    color: lightskyblue;
+    background-color: white;
+}*/
+.btn.btn-c {
+    padding: 7px 11px;
+    font-size: 14px;
+    border-radius: 20px;
+}
+
+

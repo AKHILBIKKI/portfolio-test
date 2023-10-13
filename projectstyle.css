@@ -1,0 +1,17 @@
+.infoproject{
+    height: 78vh;
+    background-color: white;
+    width: 73vw;
+    margin: 80px 30px;
+    display: flex;
+    font-size: 1.5rem;
+    border-color: rgb(50, 186, 150);
+    border-style: solid;
+    border-radius: 68px;
+}
+
+.infoproject h1{
+    margin: 45px 67px;
+    display: list-item;
+    font-size: 32px;
+}

@@ -1,0 +1,32 @@
+
+.infocontainerintro{
+    height: 78vh;
+    background-color: white;
+    width: 73vw;
+    margin: 80px 30px;
+    display: flex;
+    font-size: 1.5rem;
+    border-color: rgb(50, 186, 150);
+    border-style: solid;
+    border-radius: 68px;
+}
+.intro{
+    margin: 60px 28px;
+    /* margin-bottom: 322px; */
+    border-style: ridge;
+    padding: 9px 38px;
+    border-radius: 28px;
+}
+
+.point1{
+    display: inline;
+}
+
+.skills{
+    margin: 181px 28px;
+    /* margin-bottom: 322px; */
+    border-style: ridge;
+    padding: 9px 38px;
+    border-radius: 28px;
+}
+ 
